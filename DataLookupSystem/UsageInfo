@@ -1,0 +1,7 @@
+Arguments:
+
+java -jar [String to parse in quotes] [Full path to directory with data files]
+
+Output:
+
+Newline separated list of keywords
